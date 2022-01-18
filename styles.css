@@ -1,17 +1,37 @@
-/* * {
+* {
   margin: 0;
-} */
+}
 
 header {
   background-color: peachpuff;
   text-align: center;
 }
 
+main {
+  height: 70vh;
+  background-color: rgb(235, 245, 242);
+
+}
+
 h1 {
   background-color: royalblue;
   color: white;
-  text-align: center;
-  border: solid #4808eb;
+}
+
+.anySizeText {
+  font-size: 72px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-style: italic;
+}
+
+#scroller {
+  height: 400px;
+  overflow: auto;
+}
+
+img {
+  width: 40rem;
 }
 
 #copyright {
