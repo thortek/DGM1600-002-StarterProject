@@ -1,0 +1,23 @@
+/* * {
+  margin: 0;
+} */
+
+header {
+  background-color: peachpuff;
+  text-align: center;
+}
+
+h1 {
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+  border: solid #4808eb;
+}
+
+#copyright {
+  background-color: tomato;
+}
+
+.bodyText {
+  background-color: lightblue;
+}
