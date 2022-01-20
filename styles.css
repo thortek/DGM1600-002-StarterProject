@@ -2,42 +2,28 @@
   margin: 0;
 }
 
+body {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #13243e;
+}
+
 header {
-  background-color: peachpuff;
   text-align: center;
 }
 
+header img {
+  height: 100px;
+}
+
 main {
-  height: 70vh;
   background-color: rgb(235, 245, 242);
-
 }
 
-h1 {
-  background-color: royalblue;
-  color: white;
-}
-
-.anySizeText {
-  font-size: 72px;
-  font-family: "Roboto";
-  font-weight: 500;
-  font-style: italic;
-}
-
-#scroller {
-  height: 400px;
-  overflow: auto;
-}
-
-img {
-  width: 40rem;
+#tech img {
+  height: 200px;
 }
 
 #copyright {
-  background-color: tomato;
-}
-
-.bodyText {
-  background-color: lightblue;
+  background-color: #d8e459;
 }
