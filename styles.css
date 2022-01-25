@@ -1,5 +1,7 @@
 * {
   margin: 0;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
 }
 
 body {
@@ -17,7 +19,26 @@ header img {
 }
 
 main {
-  background-color: rgb(235, 245, 242);
+
+}
+
+#bio {
+  display: flex;
+
+}
+
+#bio-choose {
+  width: 100%;
+}
+
+#name-date {
+  display: flex;
+  justify-content: space-between;
+}
+
+#choose-list {
+  background-color: #545353;
+  padding: 1rem;
 }
 
 #tech img {
